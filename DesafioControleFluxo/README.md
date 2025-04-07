@@ -1,18 +1,31 @@
-## Getting Started
+# Desafio Controle de Fluxo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto faz parte do desafio proposto pela Digital Innovation One (DIO) para praticar conceitos de controle de fluxo em Java.
 
-## Folder Structure
+## Objetivo
 
-The workspace contains two folders by default, where:
+O objetivo do projeto é implementar soluções que utilizem estruturas de controle de fluxo, como `if`, `else`, `switch`, e laços de repetição, para resolver problemas específicos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Java**: Linguagem principal do projeto.
+- **IDE**: Utilize a IDE de sua preferência (Eclipse, IntelliJ, VS Code, etc.).
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Executar
 
-## Dependency Management
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/desafio-dio-controle-de-fluxo.git
+    ```
+2. Abra o projeto em sua IDE.
+3. Compile e execute o código.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Estrutura do Projeto
+
+- **src/**: Contém os arquivos de código-fonte.
+- **README.md**: Documentação do projeto.
+
+## Autor
+
+Projeto desenvolvido como parte do bootcamp da [Digital Innovation One](https://www.dio.me/).
+
